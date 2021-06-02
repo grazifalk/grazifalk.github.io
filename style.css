@@ -1,0 +1,16 @@
+body{
+    height: 95vh;
+    width: 95VW;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: rgb(0, 109, 0);
+    background-image: url("/img/background.jpg");
+    background-size: cover;
+    background-blend-mode: color-dodge;
+}
+
+.title{
+    color: white;
+}
