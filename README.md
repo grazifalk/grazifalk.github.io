@@ -8,5 +8,7 @@ Esse é o repositório do meu projeto de recriação do Jogo da Cobrinha com HTM
 * [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 * [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
-## 🚀 "Ao infinito... e além!" 🚀
+##### :video_game: **[Clique aqui para ver o resultado e divirta-se!](https://grazifalk.github.io/)** :snake: :apple:
+
+#### 🚀 "Ao infinito... e além!" 🚀
 
